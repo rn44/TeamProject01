@@ -1,3 +1,6 @@
-#IS601 Team Project RN+EB
+#IS601 - Team Project 
+Members: Eric Broderick and Ricardo Nunes
 
-#First Heading Created
+##GitFlow Overview
+
+
