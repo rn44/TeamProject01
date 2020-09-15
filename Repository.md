@@ -6,12 +6,12 @@ The repository not only contains the current version of these files, but it also
 The history of these files is contained within various ["*commits*"]() and ["*branches*"]() which will be discussed later.
 Due to the nature of these historical records, anyone with access to the repository can see the complete history of all files. 
 
-In the sections below, we will discuss repository wide actions like ["*forking*"]() and ["*cloning*"]().
+In the sections below, we will discuss repository wide actions like ["*forking*"]() and ["*cloning*"](./Clones.md).
 
 ##GitFlow Overview
 * [Table of Contents](./README.MD)
 * [Repository](./Repository.md)
-* Clone
+* [Clone](./Clones.md)
 * Fork
 * Branch
 * Commit
