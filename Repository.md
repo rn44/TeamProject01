@@ -10,7 +10,7 @@ In the sections below, we will discuss repository wide actions like ["*forking*"
 
 ##GitFlow Overview
 * [Table of Contents](./README.MD)
-* [Repository](./Repository.md)
+* _**Repository**_
 * [Clone](./Clones.md)
 * Fork
 * Branch
