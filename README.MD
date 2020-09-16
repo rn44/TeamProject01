@@ -4,7 +4,7 @@ Members: Eric Broderick and Ricardo Nunes
 ##GitFlow Overview
 * [Repository](./Repository.md)
 * [Clone](./Clones.md)
-* Fork
+* [Fork](./Forks.md)
 * Branch
 * Commit
 * Merge
@@ -22,4 +22,5 @@ Members: Eric Broderick and Ricardo Nunes
   * Restructured the project to be separate files
   * Added Repository Section
   * Added Clone Section
+  * Added Fork Section
   
