@@ -6,7 +6,7 @@ Cloning brings in a local copy that not only includes the project's files but al
 ##GitFlow Overview
 * [Table of Contents](./README.MD)
 * [Repository](./Repository.md)
-* [Clone](./Clones.md)
+* _**Clone**_
 * Fork
 * Branch
 * Commit
