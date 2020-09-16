@@ -3,7 +3,7 @@ Members: Eric Broderick and Ricardo Nunes
 
 ##GitFlow Overview
 * [Repository](./Repository.md)
-* Clone
+* [Clone](./Clones.md)
 * Fork
 * Branch
 * Commit
@@ -14,3 +14,12 @@ Members: Eric Broderick and Ricardo Nunes
 * Remote Add / Remove / Show
 * Status
 * Master Branch
+
+
+##ChangeLog
+* RN091520 
+  * Restructured the project ReadMe to include ChangeLog
+  * Restructured the project to be separate files
+  * Added Repository Section
+  * Added Clone Section
+  
