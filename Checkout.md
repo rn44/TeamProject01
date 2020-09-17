@@ -4,7 +4,7 @@ Checkout allows you to navigate the branches created by git. When checking out a
 ##GitFlow Overview
 * [Table of Contents](./README.MD)
 * [Repository](./Repository.md)
-* [Clone](./Clone.md)
+* [Clone](./Clones.md)
 * [Fork](./Forks.md)
 * Branch
 * Commit
