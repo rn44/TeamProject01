@@ -16,8 +16,8 @@ In the sections below, we will discuss repository wide actions like ["*forking*"
 * Branch
 * Commit
 * Merge
-* Checkout
-* Push
+* [Checkout](./Checkout.md)
+* [Push](./Push.md)
 * Pull 
 * Remote Add / Remove / Show
 * Status
