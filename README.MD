@@ -9,7 +9,7 @@ Members: Eric Broderick and Ricardo Nunes
 * Commit
 * Merge
 * [Checkout](./Checkout.md)
-* Push
+* [Push](./Push.md)
 * Pull 
 * Remote Add / Remove / Show
 * Status
@@ -26,4 +26,5 @@ Members: Eric Broderick and Ricardo Nunes
   
 * Ericbrod10 
   * Added Checkout Section
+  * Added Push Section
   
