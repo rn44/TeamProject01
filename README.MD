@@ -8,7 +8,7 @@ Members: Eric Broderick and Ricardo Nunes
 * Branch
 * Commit
 * Merge
-* Checkout
+* [Checkout](./Checkout.md)
 * Push
 * Pull 
 * Remote Add / Remove / Show
@@ -23,4 +23,7 @@ Members: Eric Broderick and Ricardo Nunes
   * Added Repository Section
   * Added Clone Section
   * Added Fork Section
+  
+* Ericbrod10 
+  * Added Checkout Section
   
