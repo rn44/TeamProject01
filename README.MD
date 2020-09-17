@@ -26,4 +26,5 @@ Members: Eric Broderick and Ricardo Nunes
   
 * Ericbrod10 
   * Added Checkout Section
+  * Added Push Section
   
