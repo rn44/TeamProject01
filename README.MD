@@ -24,7 +24,10 @@ Members: Eric Broderick and Ricardo Nunes
   * Added Clone Section
   * Added Fork Section
   
-* Ericbrod10 
+* Ericbrod091610 
   * Added Checkout Section
   * Added Push Section
-  
+
+* RN091720 
+  * Added appropriate links across project
+  * Merged branches with missing links
