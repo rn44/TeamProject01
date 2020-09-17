@@ -12,8 +12,8 @@ This is especially useful for working with unknown collaborators so that only ap
 * Branch
 * Commit
 * Merge
-* Checkout
-* Push
+* [Checkout](./Checkout.md)
+* [Push](./Push.md)
 * Pull 
 * Remote Add / Remove / Show
 * Status
