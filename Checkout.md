@@ -4,12 +4,12 @@ Checkout allows you to navigate the branches created by git. When checking out a
 ##GitFlow Overview
 * [Table of Contents](./README.MD)
 * [Repository](./Repository.md)
-* _**Clone**_
+* [Clone](./Clone.md)
 * [Fork](./Forks.md)
 * Branch
 * Commit
 * Merge
-* [Checkout](./Checkout.md)
+* _**Checkout**_
 * Push
 * Pull 
 * Remote Add / Remove / Show
