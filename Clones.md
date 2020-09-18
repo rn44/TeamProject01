@@ -9,7 +9,7 @@ Cloning brings in a local copy that not only includes the project's files but al
 * _**Clone**_
 * [Fork](./Forks.md)
 * [Branch](./Branches.md)
-* Commit
+* [Commit](./Commits.md)
 * Merge
 * [Checkout](./Checkout.md)
 * [Push](./Push.md)
