@@ -36,3 +36,4 @@ Members: Eric Broderick and Ricardo Nunes
   * Added Branch Section
   * Added Commit Section 
   * Added Merge Section
+  * Fixed header display issue
