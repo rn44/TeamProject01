@@ -1,7 +1,7 @@
-#IS601 - Team Project 
+# IS601 - Team Project 
 Members: Eric Broderick and Ricardo Nunes
 
-##GitFlow Overview
+## GitFlow Overview
 * [Repository](./Repository.md)
 * [Clone](./Clones.md)
 * [Fork](./Forks.md)
@@ -16,7 +16,7 @@ Members: Eric Broderick and Ricardo Nunes
 * Master Branch
 
 
-##ChangeLog
+## ChangeLog
 * RN091520 
   * Restructured the project ReadMe to include ChangeLog
   * Restructured the project to be separate files
