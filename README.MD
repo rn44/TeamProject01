@@ -7,7 +7,7 @@ Members: Eric Broderick and Ricardo Nunes
 * [Fork](./Forks.md)
 * [Branch](./Branches.md)
 * [Commit](./Commits.md)
-* Merge
+* [Merge](./Merges.md)
 * [Checkout](./Checkout.md)
 * [Push](./Push.md)
 * Pull 
@@ -35,3 +35,4 @@ Members: Eric Broderick and Ricardo Nunes
 * RN091820
   * Added Branch Section
   * Added Commit Section 
+  * Added Merge Section

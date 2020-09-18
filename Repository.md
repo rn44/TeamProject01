@@ -15,7 +15,7 @@ In the sections below, we will discuss repository wide actions like ["*forking*"
 * [Fork](./Forks.md)
 * [Branch](./Branches.md)
 * [Commit](./Commits.md)
-* Merge
+* [Merge](./Merges.md)
 * [Checkout](./Checkout.md)
 * [Push](./Push.md)
 * Pull 

@@ -11,7 +11,7 @@ This is especially useful for working with unknown collaborators so that only ap
 * _**Fork**_
 * [Branch](./Branches.md)
 * [Commit](./Commits.md)
-* Merge
+* [Merge](./Merges.md)
 * [Checkout](./Checkout.md)
 * [Push](./Push.md)
 * Pull 
