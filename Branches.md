@@ -9,8 +9,8 @@ One example of this would be to create a branch for every major feature in a sof
 * [Clone](./Clones.md)
 * [Fork](./Forks.md)
 * _**Branch**_
-* Commit
-* Merge
+* [Commit](./Commits.md)
+* [Merge](./Merges.md)
 * [Checkout](./Checkout.md)
 * [Push](./Push.md)
 * Pull 

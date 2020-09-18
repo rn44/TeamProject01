@@ -8,7 +8,7 @@ Git Push is responsible for uploading changes to a specific remote repository an
 * [Fork](./Forks.md)
 * [Branch](./Branches.md)
 * [Commit](./Commits.md)
-* Merge
+* [Merge](./Merges.md)
 * [Checkout](./Checkout.md)
 * _**Push**_
 * Pull 

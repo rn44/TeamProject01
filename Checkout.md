@@ -8,7 +8,7 @@ Checkout allows you to navigate the branches created by git. When checking out a
 * [Fork](./Forks.md)
 * [Branch](./Branches.md)
 * [Commit](./Commits.md)
-* Merge
+* [Merge](./Merges.md)
 * _**Checkout**_
 * Push
 * Pull 
