@@ -1,6 +1,8 @@
 # IS601 - Team Project 
 Members: Eric Broderick and Ricardo Nunes
 
+![GitFlowLogo](./Assets/git-flow-logo.png)
+
 ## GitFlow Overview
 * [Repository](./Repository.md)
 * [Clone](./Clones.md)
@@ -37,3 +39,4 @@ Members: Eric Broderick and Ricardo Nunes
   * Added Commit Section 
   * Added Merge Section
   * Fixed header display issue
+  * Added Assets folder and pictures to various pages
