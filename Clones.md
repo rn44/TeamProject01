@@ -8,7 +8,7 @@ Cloning brings in a local copy that not only includes the project's files but al
 * [Repository](./Repository.md)
 * _**Clone**_
 * [Fork](./Forks.md)
-* Branch
+* [Branch](./Branches.md)
 * Commit
 * Merge
 * [Checkout](./Checkout.md)

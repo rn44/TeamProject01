@@ -6,7 +6,7 @@ Checkout allows you to navigate the branches created by git. When checking out a
 * [Repository](./Repository.md)
 * [Clone](./Clones.md)
 * [Fork](./Forks.md)
-* Branch
+* [Branch](./Branches.md)
 * Commit
 * Merge
 * _**Checkout**_

@@ -9,7 +9,7 @@ This is especially useful for working with unknown collaborators so that only ap
 * [Repository](./Repository.md)
 * [Clone](./Clones.md)
 * _**Fork**_
-* Branch
+* [Branch](./Branches.md)
 * Commit
 * Merge
 * [Checkout](./Checkout.md)
