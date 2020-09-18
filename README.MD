@@ -5,7 +5,7 @@ Members: Eric Broderick and Ricardo Nunes
 * [Repository](./Repository.md)
 * [Clone](./Clones.md)
 * [Fork](./Forks.md)
-* Branch
+* [Branch](./Branches.md)
 * Commit
 * Merge
 * [Checkout](./Checkout.md)
@@ -31,3 +31,7 @@ Members: Eric Broderick and Ricardo Nunes
 * RN091720 
   * Added appropriate links across project
   * Merged branches with missing links
+  
+* RN091820
+  * Added Branch Section
+  * Added Commit Section 
