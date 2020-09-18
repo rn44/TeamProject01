@@ -1,4 +1,4 @@
-#Repository
+# Repository
 The git repository is the container for all files within a project. 
 This is not limited simply to code files, but it can also contain assets like picture and audio files. 
 The repository not only contains the current version of these files, but it also contains the history and revisions of these files.
@@ -8,7 +8,7 @@ Due to the nature of these historical records, anyone with access to the reposit
 
 In the sections below, we will discuss repository wide actions like ["*forking*"](./Forks.md) and ["*cloning*"](./Clones.md).
 
-##GitFlow Overview
+## GitFlow Overview
 * [Table of Contents](./README.MD)
 * _**Repository**_
 * [Clone](./Clones.md)
