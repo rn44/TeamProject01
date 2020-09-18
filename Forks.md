@@ -10,7 +10,7 @@ This is especially useful for working with unknown collaborators so that only ap
 * [Clone](./Clones.md)
 * _**Fork**_
 * [Branch](./Branches.md)
-* Commit
+* [Commit](./Commits.md)
 * Merge
 * [Checkout](./Checkout.md)
 * [Push](./Push.md)
