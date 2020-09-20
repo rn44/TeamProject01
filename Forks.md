@@ -4,6 +4,8 @@ This copy will have a child association from the parent repository and can becom
 Due to the association however, the forked repository can still submit pull requests back into the parent repository.   
 This is especially useful for working with unknown collaborators so that only approved changes can be reincorporated back into the original project.
 
+![GitFork](Assets/GitFork.png)
+
 ## GitFlow Overview
 * [Table of Contents](./README.MD)
 * [Repository](./Repository.md)
@@ -14,7 +16,7 @@ This is especially useful for working with unknown collaborators so that only ap
 * [Merge](./Merges.md)
 * [Checkout](./Checkout.md)
 * [Push](./Push.md)
-* Pull 
-* Remote Add / Remove / Show
-* Status
-* Master Branch 
+* [Pull](./Pull.md) 
+* [Remote Add / Remove / Show](./RemoteAddRemoveShow.md)
+* [Status](./Status.md)
+* [Master Branch](MasterBranch.md) 

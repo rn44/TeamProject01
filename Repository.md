@@ -20,7 +20,7 @@ In the sections below, we will discuss repository wide actions like ["*forking*"
 * [Merge](./Merges.md)
 * [Checkout](./Checkout.md)
 * [Push](./Push.md)
-* Pull 
-* Remote Add / Remove / Show
-* Status
-* Master Branch
+* [Pull](./Pull.md) 
+* [Remote Add / Remove / Show](./RemoteAddRemoveShow.md)
+* [Status](./Status.md)
+* [Master Branch](MasterBranch.md)

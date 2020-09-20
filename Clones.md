@@ -3,6 +3,8 @@ Cloning allows you to create a local copy of a project that already exists remot
 This is especially useful for working with others through a remote [repository](./Repository.md) like github. 
 Cloning brings in a local copy that not only includes the project's files but also the history and branches.
 
+![GitClone](Assets/GitClone.png)
+
 ## GitFlow Overview
 * [Table of Contents](./README.MD)
 * [Repository](./Repository.md)
@@ -13,7 +15,7 @@ Cloning brings in a local copy that not only includes the project's files but al
 * [Merge](./Merges.md)
 * [Checkout](./Checkout.md)
 * [Push](./Push.md)
-* Pull 
-* Remote Add / Remove / Show
-* Status
-* Master Branch 
+* [Pull](./Pull.md)
+* [Remote Add / Remove / Show](./RemoteAddRemoveShow.md)
+* [Status](./Status.md)
+* [Master Branch](MasterBranch.md)
