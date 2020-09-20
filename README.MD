@@ -12,7 +12,7 @@ Members: Eric Broderick and Ricardo Nunes
 * [Merge](./Merges.md)
 * [Checkout](./Checkout.md)
 * [Push](./Push.md)
-* Pull 
+* [Pull](./Pull.md) 
 * Remote Add / Remove / Show
 * Status
 * Master Branch
@@ -40,3 +40,6 @@ Members: Eric Broderick and Ricardo Nunes
   * Added Merge Section
   * Fixed header display issue
   * Added Assets folder and pictures to various pages
+
+* Ericbrod091920
+  * Add Pull Feature 
