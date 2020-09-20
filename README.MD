@@ -46,3 +46,4 @@ Members: Eric Broderick and Ricardo Nunes
   * Added Status Feature
   * Added Added Add / Remove / Show Feature
   * Added Master Branch Feature
+  * Added Fixes and Images 

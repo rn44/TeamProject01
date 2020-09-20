@@ -4,6 +4,8 @@ Commits in Git should be used everytime a change has been made, and ensure that 
 Ensuring that commits are in the proper and appropriate branch allows for better tracking and easier [*merging*](./Merges.md). 
 Commits should also only be done when one is sure their self-contained change is complete. 
 
+![GitCommit](Assets/Commit.png)
+
 ## GitFlow Overview
 * [Table of Contents](./README.MD)
 * [Repository](./Repository.md)
@@ -14,7 +16,7 @@ Commits should also only be done when one is sure their self-contained change is
 * _**Merge**_
 * [Checkout](./Checkout.md)
 * [Push](./Push.md)
-* Pull 
-* Remote Add / Remove / Show
-* Status
-* Master Branch
+* [Pull](./Pull.md)
+* [Remote Add / Remove / Show](./RemoteAddRemoveShow.md)
+* [Status](./Status.md)
+* [Master Branch](MasterBranch.md)
