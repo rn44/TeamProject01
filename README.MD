@@ -13,7 +13,7 @@ Members: Eric Broderick and Ricardo Nunes
 * [Checkout](./Checkout.md)
 * [Push](./Push.md)
 * [Pull](./Pull.md) 
-* [Remote Add / Remove / Show](./Remote Add Remove Show.md)
+* [Remote Add / Remove / Show](./RemoteAddRemoveShow.md)
 * [Status](./Status.md)
 * Master Branch
 
