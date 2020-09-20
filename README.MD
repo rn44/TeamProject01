@@ -42,4 +42,5 @@ Status.md
   * Added Assets folder and pictures to various pages
 
 * Ericbrod091920
-  * Add Pull Feature 
+  * Added Pull Feature 
+  * Added Status Feature
