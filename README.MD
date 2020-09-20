@@ -14,9 +14,9 @@ Members: Eric Broderick and Ricardo Nunes
 * [Push](./Push.md)
 * [Pull](./Pull.md) 
 * Remote Add / Remove / Show
-* Status
+* [Status](./Status.md)
 * Master Branch
-
+Status.md
 
 ## ChangeLog
 * RN091520 
