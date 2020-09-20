@@ -15,7 +15,7 @@ Members: Eric Broderick and Ricardo Nunes
 * [Pull](./Pull.md) 
 * [Remote Add / Remove / Show](./RemoteAddRemoveShow.md)
 * [Status](./Status.md)
-* Master Branch
+* [Master Branch](MasterBranch.md)
 
 
 ## ChangeLog
@@ -45,3 +45,4 @@ Members: Eric Broderick and Ricardo Nunes
   * Added Pull Feature 
   * Added Status Feature
   * Added Added Add / Remove / Show Feature
+  * Added Master Branch Feature
