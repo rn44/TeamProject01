@@ -44,3 +44,4 @@ Members: Eric Broderick and Ricardo Nunes
 * Ericbrod091920
   * Added Pull Feature 
   * Added Status Feature
+  * Added Added Add / Remove / Show Feature
