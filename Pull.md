@@ -1,8 +1,8 @@
 # Pull
-A git pull command is used to fetch and download contents from a remote respiratory and immediately update the local repository to match the contents. Git pull is an easy way to synchronize and upstream changes to the local [repository](./Repository.md).
+A git pull command is used to fetch and download contents from a remote respiratory and immediately update the local repository to match the contents. Git pull is an easy way to synchronize and [Merge](./Merges.md) upstream changes to the local [repository](./Repository.md).
 
 
-![GitPull](Assets\GitPullExample.png)
+![GitPull](Assets/GitPullExample.png)
 
 ## GitFlow Overview
 * [Table of Contents](./README.MD)
