@@ -5,7 +5,7 @@ Members: Eric Broderick and Ricardo Nunes
 Automated testing and integration is the way of the future. 
 No longer do companies, or individuals for that matter, need to focus on independent unit testing for their code.
 Thanks to processes like Git, unit testing essentially happens with every commit and merge. 
-While baseline tests and validations are run without any user configuration, specific unit tests can also be built.
+While baseline tests and validations can be run without any user configuration, specific unit tests can also be built.
 
 ![DockerLogo](./Assets/dockerLogo.png)
 
