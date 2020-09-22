@@ -1,9 +1,24 @@
 # IS601 - Team Project 
 Members: Eric Broderick and Ricardo Nunes
 
-![GitFlowLogo](./Assets/git-flow-logo.png)
+## Benefits of Git, Docker, and automated testing and integration
+Automated testing and integration is the way of the future. 
+No longer do companies, or individuals for that matter, need to focus on independent unit testing for their code.
+Thanks to processes like Git, unit testing essentially happens with every commit and merge. 
+While baseline tests and validations are run without any user configuration, specific unit tests can also be built.
 
-## GitFlow Overview
+![DockerLogo](./Assets/dockerLogo.png)
+
+Docker expands on the virtual machine phenomenon by virtualizing the whole OS (Operating System) to so that software can be packaged and containerized. 
+This allows the VMs (virtual machines) to be slimmer and share resources better between the applications.
+It also allows certain containers to be upgraded or downgraded without having to bring down or update other containers. 
+
+![DockerVsVM](./Assets/docker-vm-container.png)
+
+## Git Overview
+
+![GitFlowLogo](./Assets/git-logo.png)
+
 * [Repository](./Repository.md)
 * [Clone](./Clones.md)
 * [Fork](./Forks.md)
@@ -47,3 +62,6 @@ Members: Eric Broderick and Ricardo Nunes
   * Added Added Add / Remove / Show Feature
   * Added Master Branch Feature
   * Added Fixes and Images 
+  
+* RN092120
+  * Added Docker information to ReadMe
