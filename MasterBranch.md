@@ -1,5 +1,5 @@
 # Master Branch
-The Master Branch is the final branch for all changes made to a project. Every [repository](./Repository.md) includes the master branch as its the final location for all changes/additions.
+The Master Branch is the final branch for all changes made to a project. Every [repository](./Repository.md) includes the master branch as its the final location for all changes/additions. You would essentially use the master branch to unite all your changes for your finished project. 
 
 ![MasterBranch](Assets/MasterBranch.png)
 
