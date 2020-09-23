@@ -9,9 +9,9 @@ While baseline tests and validations can be run without any user configuration, 
 
 ![DockerLogo](./Assets/dockerLogo.png)
 
-Docker expands on the virtual machine phenomenon by virtualizing the whole OS (Operating System) to so that software can be packaged and containerized. 
+Docker expands on the virtual machine phenomenon by virtualizing the whole OS (Operating System) to so that software can be packaged and containerized. Docker also helps streamline the development process, save time on builds and allows developers to run tests in parallel. 
 This allows the VMs (virtual machines) to be slimmer and share resources better between the applications.
-It also allows certain containers to be upgraded or downgraded without having to bring down or update other containers. 
+It also allows certain containers to be upgraded or downgraded without having to bring down or update other containers.
 
 ![DockerVsVM](./Assets/docker-vm-container.png)
 
@@ -65,3 +65,7 @@ It also allows certain containers to be upgraded or downgraded without having to
   
 * RN092120
   * Added Docker information to ReadMe
+
+* Ericbrod092220
+  * Added Additional Docker Info
+  * Added Additional Information to Push, Status and MasterBranch

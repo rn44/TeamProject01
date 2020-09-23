@@ -1,5 +1,5 @@
 # Status
-The git status command shows the states of the working directory and staging area. It lets you see which files are not being tracked by Git and lets you see which changes have and have not been staged. Basically it shows you what's been going on with git add amd git [commit](./Commits.md).
+The git status command shows the states of the working directory and staging area. It lets you see which files are not being tracked by Git and lets you see which changes have and have not been staged. Basically it shows you what's been going on with git [Add](./RemoteAddRemoveShow.md) and git [commit](./Commits.md).
 
 ![Git-Status](Assets/GitStatusExample.png)
 

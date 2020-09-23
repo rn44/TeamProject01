@@ -1,5 +1,5 @@
 # Push
-Git Push is responsible for uploading changes to a specific remote repository and updating the remote to incorporate your changes/[commits](./Commits.md). Push is essential publishing your local changes to a central repository to be shared with others.
+Git Push is responsible for uploading changes to a specific remote repository and updating the remote to incorporate your changes/[commits](./Commits.md). Push is essential publishing someone's local changes to a central repository to be shared with others.
 
 ![GitPush](Assets/GitPush.png)
 
